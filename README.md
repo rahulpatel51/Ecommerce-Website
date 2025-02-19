@@ -28,16 +28,16 @@ ecommerce-website/ │── src/ │ ├── components/ # Reusable UI compon
 ## 📸 E-Commerce Website Preview  
 
 ### 🏠 Home Page  
-![Home Page](https://github.com/rahulpatel51/Ecommerce-Website/blob/main/images/home-page.png?raw=true)  
+![Home Page](https://github.com/rahulpatel51/Ecommerce-Website/blob/main/Ecommerce-Website.png?raw=true)  
 
-### 🛍 About 
-![Product Page](https://github.com/rahulpatel51/Ecommerce-Website/blob/main/About%20Section.png)  
+### 🛍 About Section  
+![About Section](https://github.com/rahulpatel51/Ecommerce-Website/blob/main/About%20Section.png?raw=true)  
 
-### 🛒 Nav Section  
-![Cart Page](https://github.com/rahulpatel51/Ecommerce-Website/blob/main/Nav%20Section.png)  
+### 🛒 Bottom Section  
+![Navigation Section](https://github.com/rahulpatel51/Ecommerce-Website/blob/main/Nav%20Section.png?raw=true)  
 
-### 💳 Category 
-![Checkout Page](https://github.com/rahulpatel51/Ecommerce-Website/blob/main/Card%20Section.png)  
+### 💳 Category Section  
+![Category Section](https://github.com/rahulpatel51/Ecommerce-Website/blob/main/Card%20Section.png?raw=true)  
 
 
 
