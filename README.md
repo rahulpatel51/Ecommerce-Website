@@ -25,6 +25,11 @@ This is a **fully responsive and feature-rich E-Commerce Website frontend** buil
 
 ecommerce-website/ │── src/ │ ├── components/ # Reusable UI components │ ├── pages/ # Main pages (Home, Product, Cart, etc.) │ ├── assets/ # Images, icons, and static assets │ ├── context/ # Global state management (Redux/Context API) │ ├── hooks/ # Custom React hooks │ ├── services/ # API services (Axios calls) │ ├── utils/ # Helper functions │ ├── App.tsx # Main app component │ ├── main.tsx # Entry point │── public/ # Static assets like favicon, index.html │── package.json # Project dependencies │── tailwind.config.js # Tailwind CSS configuration │── tsconfig.json # TypeScript configuration
 
+## 📸 E-Commerce Website Preview  
+
+![E-Commerce Preview](https://github.com/rahulpatel51/Ecommerce-Website/blob/main/Ecommerce-Website.png)
+
+
 
 ## 📦 Installation & Setup
 1️⃣ Clone the repository:  
