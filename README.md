@@ -44,20 +44,7 @@ The app will be live at http://localhost:3000 🎉
 🛠️ Build for Production
 npm run build
 
-🤝 Contributing
-Contributions are welcome! If you find a bug or have a feature request, feel free to open an issue or a pull request.
-
-📜 License
-This project is open-source and available under the MIT License.
-
 🚀 Happy Coding! 😊✨
-
-shell
-Copy
-Edit
-
-### **Isme aapke project ke saare important details cover ho gaye hain!**  
-Agar aapko kuch aur add karna ho toh bata sakte hain. 😊🔥
 
 
 
