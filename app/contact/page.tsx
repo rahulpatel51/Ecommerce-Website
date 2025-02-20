@@ -37,13 +37,13 @@ export default function ContactPage() {
             </p>
             <div className="space-y-2">
               <p>
-                <strong>Email:</strong> support@techbazaar.com
+                <strong>Email:</strong> ra.rahul11131@gmail.com
               </p>
               <p>
-                <strong>Phone:</strong> +1 (555) 123-4567
+                <strong>Phone:</strong> +91 9555240956
               </p>
               <p>
-                <strong>Address:</strong> 123 Tech Street, Silicon Valley, CA 94000
+                <strong>Address:</strong> BBD, Near By BBD University, Lucknow (U.P.)
               </p>
             </div>
           </div>

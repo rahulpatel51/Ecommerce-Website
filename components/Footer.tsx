@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { Facebook, Twitter, Instagram, Youtube } from "lucide-react"
+import { Facebook, Twitter, Instagram, Youtube, Github } from "lucide-react"
 import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
 
@@ -77,16 +77,16 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Connect With Us</h3>
             <div className="flex space-x-4 mb-4">
-              <a href="#" className="text-primary-foreground hover:text-secondary transition-colors">
-                <Facebook />
+              <a href="https://github.com/rahulpatel51" className="text-primary-foreground hover:text-secondary transition-colors">
+                <Github />
               </a>
-              <a href="#" className="text-primary-foreground hover:text-secondary transition-colors">
+              <a href="https://x.com/RahulPatel11131" className="text-primary-foreground hover:text-secondary transition-colors">
                 <Twitter />
               </a>
-              <a href="#" className="text-primary-foreground hover:text-secondary transition-colors">
+              <a href="https://www.instagram.com/rahulislost_/" className="text-primary-foreground hover:text-secondary transition-colors">
                 <Instagram />
               </a>
-              <a href="#" className="text-primary-foreground hover:text-secondary transition-colors">
+              <a href="https://www.youtube.com/@rahulislost_" className="text-primary-foreground hover:text-secondary transition-colors">
                 <Youtube />
               </a>
             </div>
