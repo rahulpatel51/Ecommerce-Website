@@ -67,11 +67,6 @@ export default function Footer() {
                   Terms of Service
                 </Link>
               </li>
-              <li>
-                <Link href="/faq" className="text-sm hover:underline">
-                  FAQ
-                </Link>
-              </li>
             </ul>
           </div>
           <div>
