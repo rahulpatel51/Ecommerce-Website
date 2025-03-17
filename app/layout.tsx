@@ -3,8 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'E-Commerce Website',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  description: 'E-Commerce Website For Products Selling',
 }
 
 export default function RootLayout({
